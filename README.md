@@ -1,1 +1,1 @@
-# JS-Coding-Practice-Challenges-
+# JS-Coding-Practice-Challenges
